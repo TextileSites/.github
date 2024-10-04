@@ -1,4 +1,4 @@
-[![Your Author Platform | More Than A Website | Textile Sites](https://github.com/user-attachments/assets/d655f43d-4c72-4e55-9a38-4cca4a98ef8f)](https://textilesites.com)
+[![Your Author Platform, Simplified | Author Websites | TextileSites](https://github.com/user-attachments/assets/5a6d5e8a-8e94-43bc-a2ca-026e7596fa59)](https://textilesites.com)
 
 # [TextileSites](https://textilesites.com)
 
